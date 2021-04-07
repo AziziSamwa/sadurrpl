@@ -1,0 +1,13 @@
+nim: 1811500108
+nama: Azizi Samwa
+kelompok: TI6J
+
+hasil saya menyadur:
+1) perkenalan terhadap dosen pengampu
+2) pemberian arahan untuk cerdas berjiwa luhur
+3) intruksi kegiatan perkuliahan
+4) pemberian tutorial cara menyadur melalui akun github
+5) tugas untuk menyadur tiap pertemuan
+6) membuat kelompok 3 orang untuk presentasi Uas
+7) penjelasan tentang analisis dan perancang rpl dan analisa dan perancang perangkat lunak
+8) arahan persiapan untuk KP
